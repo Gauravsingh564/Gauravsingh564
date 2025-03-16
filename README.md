@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsingh564" alt="gauravsingh564" /></a> </p>
 
-- 🔭 I’m currently working on [Food Vision App](https://github.com/Gauravsingh564/Food_Vision_App)
+- 🔭 I’m currently working on [Food Vision App]
 
 - 💬 Ask me about **Machine Learning, Deep Learning , Computer Vision**
 
